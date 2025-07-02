@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme{
+  --font-stardom : Stardom;
+}
+
+.bg-primary{
+  background-color: #4774e6;
+}
+
+textarea::-webkit-scrollbar{
+  display: none;
+}
