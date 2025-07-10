@@ -17,6 +17,6 @@
 - **AI Model**: HuggingFace `tuner007/pegasus_summarizer`
 
 ```bash
-[git clone https://github.com/yourusername/sumrize-ai.git](https://github.com/pavan-rajulapati/blog-summarizer.git)
+git clone https://github.com/pavan-rajulapati/blog-summarizer.git
 cd blog-summarizer
 ```
